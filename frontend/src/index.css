@@ -13,6 +13,14 @@ a.active hr {
   border: 0.5px solid rgb(188, 187, 187);
 }
 
+.border-t {
+  border-top: 0.5px solid rgb(188, 187, 187);
+}
+
+.border-b {
+  border-bottom: 0.5px solid rgb(188, 187, 187);
+}
+
 .prata-regular {
   font-family: "Prata", serif;
   font-weight: 400;
