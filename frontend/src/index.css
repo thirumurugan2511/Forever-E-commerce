@@ -9,6 +9,10 @@ a.active hr {
   font-family: Outfit;
 }
 
+.border {
+  border: 0.5px solid rgb(188, 187, 187);
+}
+
 .prata-regular {
   font-family: "Prata", serif;
   font-weight: 400;
